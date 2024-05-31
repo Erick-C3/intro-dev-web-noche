@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+}
+
+img{
+    width: 50%;
+}
+
+.img-especiales{
+    width: 20%;
+}
+
+#titulo-imp{
+    border: 2px solid black;
+    color: rgb(212, 79, 79);
+    background-color: rgb(149, 224, 199);
+}
