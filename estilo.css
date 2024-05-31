@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: rgb(84, 84, 84);
     color: white;
     font-size: 30px;
 }
@@ -15,5 +15,5 @@ img{
 #titulo-imp{
     border: 2px solid black;
     color: rgb(212, 79, 79);
-    background-color: rgb(149, 224, 199);
+    background-color: rgb(134, 167, 156);
 }
