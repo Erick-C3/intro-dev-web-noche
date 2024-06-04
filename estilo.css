@@ -2,6 +2,8 @@ body{
     background-color: rgb(84, 84, 84);
     color: white;
     font-size: 30px;
+    display: grid;
+    justify-items: center;
 }
 
 img{
@@ -10,6 +12,10 @@ img{
 
 .img-especiales{
     width: 20%;
+}
+
+#entrada-texto{
+    margin: 10px;
 }
 
 #titulo-imp{
