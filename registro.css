@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(66, 110, 102);
+    color: white;
+    display: grid;
+    justify-items: center;
+    font-size: x-large;
+}
+
+#formulario-registro {
+    display: grid;
+    justify-items: start;
+
+    border: 2px inset black;
+
+    padding: 20px;
+    background-color: rgb(44, 103, 99);
+
+}
+
+input {
+    font-size: medium;
+}
+
+#formulario-boton {
+    margin-top: 20px;
+}
